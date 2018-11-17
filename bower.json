@@ -1,18 +1,18 @@
 {
-  "name": "bitcore-message",
-  "main": "./bitcore-message.min.js",
+  "name": "fcash-message",
+  "main": "./fcash-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-message",
+  "homepage": "https://github.com/fcash-wallet/fcash-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "description": "Bitcoin Message Verification and Signing for Fcash",
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "fcash",
     "btc",
     "satoshi",
     "message",

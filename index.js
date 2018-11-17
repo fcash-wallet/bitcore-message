@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib');
-bitcore.Message = require('./lib/message');
+var fcash = require('fcash-lib');
+fcash.Message = require('./lib/message');
 
-module.exports = bitcore.Message;
+module.exports = fcash.Message;
