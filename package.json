@@ -1,6 +1,6 @@
 {
   "name": "fcash-message",
-  "version": "8.0.2",
+  "version": "8.0.3",
   "description": "Bitcoin Messages for Fcash",
   "author": "Fcash <dev@fcash.cash>",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/fcash-wallet/fcash-message.git"
   },
   "dependencies": {
-    "fcash-lib": "8.0.2"
+    "fcash-lib": "8.0.3"
   },
   "devDependencies": {
     "fcash-build": "bitpay/fcash-build",
