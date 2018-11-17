@@ -1,10 +1,10 @@
 {
   "name": "fcash-message",
   "main": "./fcash-message.min.js",
-  "version": "1.0.3",
+  "version": "8.0.2",
   "homepage": "https://github.com/fcash-wallet/fcash-message",
   "authors": [
-    "BitPay"
+    "Fcash"
   ],
   "description": "Bitcoin Message Verification and Signing for Fcash",
   "moduleType": [
